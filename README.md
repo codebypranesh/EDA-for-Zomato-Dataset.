@@ -43,4 +43,23 @@ To run the analysis:
 
 1. Clone this repository:
    ```bash
+   📷 Sample Visuals
+The notebook contains plots such as:
+
+Bar charts for top cuisines
+
+Pie charts for country distributions
+
+Histograms for rating spreads
+
+Count plots for rating categories
+
+✅ Conclusion
+This project provides insights into how food preferences, ratings, and affordability differ across countries. It lays the foundation for further work like recommendation systems or predictive models based on restaurant data.
+
+vbnet
+Copy
+Edit
+
+Let me know if you want to include screenshots, badges (like Jupyter or Python), or a "Future Improvements" section!
    git clone https://github.com/your-username/zomato-eda-analysis.git
